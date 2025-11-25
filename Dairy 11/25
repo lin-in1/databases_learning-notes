@@ -1,0 +1,9 @@
+Programmer's Diary
+1.今天花了大约两个小时学习爬虫，我已经会解析json文件为字典，可以在部分网页批量爬取照片，和逐个爬取视频，照片，音频了。
+2.学习了pytorch中tensor的定义，运行环境。有一定了解。
+
+Tomorrow Plan
+1.深化爬虫学习
+2.继续学习pytorch
+3.学会习惯浏览GitHub
+4.学习巩固linux和数据库基本语法，复习基础
