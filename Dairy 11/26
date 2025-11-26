@@ -1,15 +1,25 @@
+today review
 1.深化爬虫学习
-
+通过今天的学习我会一次爬取多页json信息了
 
 2.继续学习pytorch
 看了大概6个小时吧，https://docs.pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html，把这个文件下面60分钟快速了解pytorch看完了，但是啥也写不出来，好崩溃
 收获：知道pytorch基本框架
 
 3.学会习惯浏览GitHub
-
+我会查资料的，我发现英语词汇量的严重不足
 
 4.学习巩固linux和数据库基本语法，复习基础
+肤浅地学习了子查询
 
 
 tomorrow plan
 1.训练写一个识别照片内容的模型
+
+2.学习redis框架
+
+3.默写数据库linux常用语句
+
+4.学习python多进程
+
+5.继续学习爬虫
